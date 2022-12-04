@@ -1,4 +1,4 @@
-nCoding - a comprehensive code editor written in rust
+## nCoding - a comprehensive code editor written in rust
 
 ## aims:
 1. working text viewer
